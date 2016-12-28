@@ -1,1 +1,4 @@
 /aspnet_client
+*.suo
+/obj/Debug
+*.user
