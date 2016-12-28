@@ -2,3 +2,5 @@
 *.suo
 /obj/Debug
 *.user
+_UpgradeReport_Files
+UpgradeLog.XML
