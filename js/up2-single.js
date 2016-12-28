@@ -54,19 +54,19 @@ function HttpUploaderMgr()
 		, "PostUrl"         : "http://localhost:4854/asp.net/upload.aspx"
         //x86
 		, "ClsidPartition"  : "6F3EB4AF-FC9C-4570-A686-88B4B427C6FE"
-		, "CabPath"         : "http://www.ncmem.com/download/HttpUploader2/HttpUploader.cab"
+		, "CabPath"         : "http://www.ncmem.com/download/up2/up2.cab"
         //x64
         //x64
 		, "ClsidPartition64": "3AFFCB6D-55ED-4ada-A1EC-D7D87BA29E51"
-		, "CabPath64"       : "http://www.ncmem.com/download/HttpUploader2/HttpUploader64.cab"
+		, "CabPath64"       : "http://www.ncmem.com/download/up2/up64.cab"
         //Firefox
 		, "XpiType"        : "application/npHttpUp2"
-		, "XpiPath"         : "http://www.ncmem.com/download/HttpUploader2/HttpUploader2.xpi"
+		, "XpiPath"         : "http://www.ncmem.com/download/up2/up2.xpi"
         //Chrome
 		, "CrxName"         : "npHttpUp2"
 		, "CrxType"         : "application/npHttpUp2"
-		, "CrxPath"         : "http://www.ncmem.com/download/HttpUploader2/HttpUploader2.crx"
-		, "ExePath"         : "http://www.ncmem.com/download/HttpUploader2/HttpUploader2.exe"
+		, "CrxPath"         : "http://www.ncmem.com/download/up2/up2.crx"
+		, "ExePath"         : "http://www.ncmem.com/download/up2/up2.exe"
     };
 
     this.ActiveX = {
